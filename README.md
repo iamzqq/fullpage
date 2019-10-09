@@ -1,4 +1,4 @@
-fullpage
+fullpage-
 ========
 
 for desktop(ie5.5+) and mobile
